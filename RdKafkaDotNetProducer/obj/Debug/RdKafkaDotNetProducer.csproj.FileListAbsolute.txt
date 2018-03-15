@@ -1,0 +1,12 @@
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\bin\Debug\x86\librdkafka.dll
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\bin\Debug\x86\zlib.dll
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\bin\Debug\x64\librdkafka.dll
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\bin\Debug\x64\zlib.dll
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\bin\Debug\RdKafkaDotNetProducer.exe.config
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\bin\Debug\RdKafkaDotNetProducer.exe
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\bin\Debug\RdKafkaDotNetProducer.pdb
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\bin\Debug\RdKafka.dll
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\obj\Debug\RdKafkaDotNetProducer.csprojResolveAssemblyReference.cache
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\obj\Debug\RdKafkaDotNetProducer.csproj.CoreCompileInputs.cache
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\obj\Debug\RdKafkaDotNetProducer.exe
+c:\users\afhassan\source\repos\RdKafkaDotNetProducer\RdKafkaDotNetProducer\obj\Debug\RdKafkaDotNetProducer.pdb
